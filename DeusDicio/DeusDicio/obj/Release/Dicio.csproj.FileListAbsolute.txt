@@ -1,0 +1,8 @@
+D:\junctions\Downloads\DeusDicio2\DeusDicio\DeusDicio\bin\Release\DeusDicio.exe.config
+D:\junctions\Downloads\DeusDicio2\DeusDicio\DeusDicio\obj\Release\DeusDicio.MainForm.resources
+D:\junctions\Downloads\DeusDicio2\DeusDicio\DeusDicio\obj\Release\DeusDicio.Properties.Resources.resources
+D:\junctions\Downloads\DeusDicio2\DeusDicio\DeusDicio\obj\Release\Dicio.csproj.GenerateResource.Cache
+D:\junctions\Downloads\DeusDicio2\DeusDicio\DeusDicio\bin\Release\DeusDicio.exe
+D:\junctions\Downloads\DeusDicio2\DeusDicio\DeusDicio\bin\Release\DeusDicio.pdb
+D:\junctions\Downloads\DeusDicio2\DeusDicio\DeusDicio\obj\Release\DeusDicio.exe
+D:\junctions\Downloads\DeusDicio2\DeusDicio\DeusDicio\obj\Release\DeusDicio.pdb

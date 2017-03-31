@@ -1,0 +1,27 @@
+C:\Users\jack\documents\visual studio 2015\Projects\DeusDicio\DeusDicio\bin\Debug\DeusDicio.exe.config
+C:\Users\jack\documents\visual studio 2015\Projects\DeusDicio\DeusDicio\bin\Debug\DeusDicio.exe
+C:\Users\jack\documents\visual studio 2015\Projects\DeusDicio\DeusDicio\bin\Debug\DeusDicio.pdb
+C:\Users\jack\documents\visual studio 2015\Projects\DeusDicio\DeusDicio\obj\Debug\Dicio.csprojResolveAssemblyReference.cache
+C:\Users\jack\documents\visual studio 2015\Projects\DeusDicio\DeusDicio\obj\Debug\DeusDicio.MainForm.resources
+C:\Users\jack\documents\visual studio 2015\Projects\DeusDicio\DeusDicio\obj\Debug\DeusDicio.Properties.Resources.resources
+C:\Users\jack\documents\visual studio 2015\Projects\DeusDicio\DeusDicio\obj\Debug\Dicio.csproj.GenerateResource.Cache
+C:\Users\jack\documents\visual studio 2015\Projects\DeusDicio\DeusDicio\obj\Debug\DeusDicio.exe
+C:\Users\jack\documents\visual studio 2015\Projects\DeusDicio\DeusDicio\obj\Debug\DeusDicio.pdb
+\\aida\users\JASW\Documents\DeusDicio\DeusDicio\bin\Debug\DeusDicio.exe.config
+\\aida\users\JASW\Documents\DeusDicio\DeusDicio\obj\Debug\DeusDicio.exe
+\\aida\users\JASW\Documents\DeusDicio\DeusDicio\obj\Debug\DeusDicio.pdb
+\\aida\users\JASW\Documents\DeusDicio\DeusDicio\bin\Debug\DeusDicio.exe
+\\aida\users\JASW\Documents\DeusDicio\DeusDicio\bin\Debug\DeusDicio.pdb
+\\aida\users\JASW\Documents\DeusDicio\DeusDicio\obj\Debug\Dicio.csprojResolveAssemblyReference.cache
+\\aida\users\JASW\Documents\DeusDicio\DeusDicio\obj\Debug\DeusDicio.MainForm.resources
+\\aida\users\JASW\Documents\DeusDicio\DeusDicio\obj\Debug\DeusDicio.Properties.Resources.resources
+\\aida\users\JASW\Documents\DeusDicio\DeusDicio\obj\Debug\Dicio.csproj.GenerateResource.Cache
+D:\junctions\Downloads\DeusDicio2\DeusDicio\DeusDicio\bin\Debug\DeusDicio.exe.config
+D:\junctions\Downloads\DeusDicio2\DeusDicio\DeusDicio\obj\Debug\DeusDicio.exe
+D:\junctions\Downloads\DeusDicio2\DeusDicio\DeusDicio\obj\Debug\DeusDicio.pdb
+D:\junctions\Downloads\DeusDicio2\DeusDicio\DeusDicio\bin\Debug\DeusDicio.exe
+D:\junctions\Downloads\DeusDicio2\DeusDicio\DeusDicio\bin\Debug\DeusDicio.pdb
+D:\junctions\Downloads\DeusDicio2\DeusDicio\DeusDicio\obj\Debug\Dicio.csprojResolveAssemblyReference.cache
+D:\junctions\Downloads\DeusDicio2\DeusDicio\DeusDicio\obj\Debug\DeusDicio.MainForm.resources
+D:\junctions\Downloads\DeusDicio2\DeusDicio\DeusDicio\obj\Debug\DeusDicio.Properties.Resources.resources
+D:\junctions\Downloads\DeusDicio2\DeusDicio\DeusDicio\obj\Debug\Dicio.csproj.GenerateResource.Cache

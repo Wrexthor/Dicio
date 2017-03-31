@@ -1,0 +1,9 @@
+c:\users\jack\documents\visual studio 2015\Projects\DeusDicio\DeusDicio\bin\Debug\DeusDicio.exe.config
+c:\users\jack\documents\visual studio 2015\Projects\DeusDicio\DeusDicio\bin\Debug\DeusDicio.exe
+c:\users\jack\documents\visual studio 2015\Projects\DeusDicio\DeusDicio\bin\Debug\DeusDicio.pdb
+c:\users\jack\documents\visual studio 2015\Projects\DeusDicio\DeusDicio\obj\Debug\DeusDicio.csprojResolveAssemblyReference.cache
+c:\users\jack\documents\visual studio 2015\Projects\DeusDicio\DeusDicio\obj\Debug\DeusDicio.Form1.resources
+c:\users\jack\documents\visual studio 2015\Projects\DeusDicio\DeusDicio\obj\Debug\DeusDicio.Properties.Resources.resources
+c:\users\jack\documents\visual studio 2015\Projects\DeusDicio\DeusDicio\obj\Debug\DeusDicio.csproj.GenerateResource.Cache
+c:\users\jack\documents\visual studio 2015\Projects\DeusDicio\DeusDicio\obj\Debug\DeusDicio.exe
+c:\users\jack\documents\visual studio 2015\Projects\DeusDicio\DeusDicio\obj\Debug\DeusDicio.pdb
